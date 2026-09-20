@@ -1,8 +1,14 @@
-# Hi, I'm Zack
+# Hi, I'm Zack Nomad
 
-**Transitioning U.S. Army Senior NCO building practical AI agents, automation systems, local LLM infrastructure, and software tools.**
+**U.S. Army Senior NCO preparing to retire from active-duty military service in 2027 and begin a civilian career building practical AI systems, automation, and software tools.**
 
-Nearly two decades of Army leadership, operations, and training. Now I build the systems I used to wish existed: self-hosted LLMs, multi-model agent workflows, n8n automations, and the web and mobile apps that sit on top of them. Fully remote after my 2027 transition.
+I have nearly two decades of Army leadership, operations, and training experience, including service in special operations. My career has required me to operate autonomously in complex, ambiguous environments, make sound decisions with incomplete information, coordinate people and resources, and turn difficult problems into executable plans.
+
+I naturally challenge assumptions, look for better ways to build systems, and make complicated information easier to understand. Today, I apply that same approach to AI agents, local LLM infrastructure, workflow automation, and web and mobile applications.
+
+I build the tools I used to wish existed.
+
+**Career transition:** Retiring from active-duty U.S. Army service in 2027 and pursuing fully remote civilian roles in applied AI, automation, and software engineering.
 
 ## Target roles
 
@@ -26,13 +32,13 @@ Applied AI Engineer · AI Automation Engineer · AI Solutions Engineer · AI-Ena
 
 ## Featured projects
 
-- **[terminal-nomad](https://github.com/NomadicZack/terminal-nomad)** · my public site, [nomadiczack.com](https://www.nomadiczack.com). TypeScript and React, SEO and Open Graph, Netlify auto-deploy.
-- **Life OS** (private) · a personal operating system: n8n and Python automations that route email, tasks, health data, and finances into Notion and an Obsidian vault, with headless Claude sessions doing the triage.
-- **AI Council** (private, sanitized version coming) · a multi-model council that fans one question out to several LLM CLIs, then synthesizes a ranked answer.
+- **[terminal-nomad](https://github.com/NomadicZack/terminal-nomad)** · my public site, [nomadiczack.com](https://nomadiczack.com). TypeScript and React, SEO and Open Graph, Netlify auto-deploy.
+- **Life OS** *(private)* · a personal operating system: n8n and Python automations that route email, tasks, health data, and finances into Notion and an Obsidian vault, with headless Claude sessions doing the triage.
+- **AI Council** *(private, sanitized version coming)* · a multi-model council that fans one question out to several LLM CLIs, then synthesizes a ranked answer.
 
 More projects will be published here as they are sanitized for public release.
 
 ## Contact
 
-- Website: [nomadiczack.com](https://www.nomadiczack.com)
-- Email: zack@nomadiczack.com
+- Website: [nomadiczack.com](https://nomadiczack.com)
+- Email: [zack@nomadiczack.com](mailto:zack@nomadiczack.com)
